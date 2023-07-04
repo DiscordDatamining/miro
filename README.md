@@ -15,7 +15,7 @@ A public repository for miro (Discord bot skidded by claqz)
 > ![image](https://cdn.discordapp.com/attachments/1116649970494361610/1125877541077532672/image.png)
 ## Credits
 > Me (sipher, providing the code to obtain the files)
-> Saint (Bae)
+> Saint (Bae, talked to his retarded ass for 9-5 hours trying to obtain access via jishaku.)
 
 ## Donate
 > Consider joining the heal bot remake server, better support, and we will be frequent updating this.
